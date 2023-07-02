@@ -5,7 +5,7 @@ export function FunctionComponent() {
 }
 
 export function FunctionComponent2() {
-  return <h2>I am User "Component"</h2>;
+  return <h2>I am User "Component" updated</h2>;
   
 }
 
